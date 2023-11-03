@@ -1,0 +1,27 @@
+.main {
+  padding: 10px;
+  display: flex;
+  width: 50%px;
+  height: 180px;
+  margin: auto;
+  justify-content: space-between;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+h1 {
+  color: red;
+  margin-top: 2px;
+}
+
+img {
+  width: 200px;
+  height: 185px;
+  border-radius: 10rem;
+}
+.skills {
+  border-radius: 3rem;
+  padding: 5px;
+  margin: 5px;
+  border: 2px solid black;
+  display: inline;
+  background-color: grey;
+}
